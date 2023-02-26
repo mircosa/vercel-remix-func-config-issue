@@ -10,9 +10,6 @@ Upon building this project in Vercel the build will fail with the following mess
 
 
 
-Open up [http://localhost:3000](http://localhost:3000) and you should be ready to go!
-
-
 The vercel.json file contains.
 
 `
